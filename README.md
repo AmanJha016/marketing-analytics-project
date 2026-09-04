@@ -107,7 +107,7 @@ This dashboard enables stakeholders to:
 
 ## 👨‍💻 Author
 
-**Prince Kumar**
+**Aman Jha**
 
 Aspiring Data Analyst skilled in SQL, Python, and Power BI, focused on building real-world analytics projects that drive business decisions.
 
